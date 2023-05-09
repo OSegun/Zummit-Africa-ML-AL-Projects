@@ -8,6 +8,8 @@ A compliation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwa
 - [Unsupervised Machine Learning](#Unsupervised-Machine-Learning)
 - [Computer Vision Deep Learning](#Computer-Vision-Deep-Learning)
 - [Deep Learning](#Deep-Learning)
+- [Team Project](#Team-Project)
+- [Model & Deployment](#Model-Deployment)
 
 
 ### Supervised-Machine-Learning
@@ -31,3 +33,11 @@ A compliation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwa
 ### Deep-Learning
 - [CNN And SVM model Classification](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/Dog_%26_Cat_Image_Classifier_With_SVM.ipynb) Dog & Cat Classification With CNN And SVM model Used Case
 - [MNIST Digit Classification](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/ZA03_MNIST%20Digit%20Classification%20With%20Neural%20Network.ipynb) MNIST Digit Classification With Neural Network.
+
+### Team-Project
+- [Business Review Sentimental Analyser](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/Business%20Review%20Sentimental%20Analyser%20model%20and%20deployment) Sentimental analysis model and deployment(with fastapi) using an NLP BERT pre-trained model to review customers comments or feedback on the rating of 1 to 5.
+- [Crop Prediction and Crop Recommendation](https://github.com/Zummit-Africa-Inc/Crop-Yield-Prediction/tree/main/results/Crop-Recommendation) Crop recommendation system to help predict type of crop to plant.
+
+
+### Model-Deployment
+- [MELB_Housing_Model_&_Deployment](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/MELB_Housing_Model_%26_Deployment) 
