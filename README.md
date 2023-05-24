@@ -37,6 +37,7 @@ A compliation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwa
 ### Team-Project
 - [Business Review Sentimental Analyser](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/Business%20Review%20Sentimental%20Analyser%20model%20and%20deployment) Sentimental analysis model and deployment(with fastapi) using an NLP BERT pre-trained model to review customers comments or feedback on the rating of 1 to 5.
 - [Crop Prediction and Crop Recommendation](https://github.com/Zummit-Africa-Inc/Crop-Yield-Prediction/tree/main/results/Crop-Recommendation) Crop recommendation system to help predict type of crop to plant.
+- [Contract Review](https://github.com/OSegun/Contract_Review) artificial intelligence to streamline the contract review process. It identifies key phrases, clauses, rights and obligations of an individual or company signing it and assessing the associated impact helping lawyers spot potential problems and make the review process more efficient.
 
 
 ### Model-Deployment
