@@ -1,6 +1,6 @@
 # Zummit-Africa-ML-AL-Projects
 
-A compliation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwasegun/) executed machine learning and deep learning projects while at Zummit Africa as a junior data scientist.
+A compilation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwasegun/) executed machine learning and deep learning projects while at Zummit Africa as a junior data scientist.
 
 ## Table of Content:
 
@@ -24,8 +24,8 @@ A compliation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwa
 - [KNeighborsClassification model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/Heart_Disease_With_KNN_GridSearchCV_Hyperparameter.ipynb) Predicting heart disease with KNN GridSearchCV Hyperparameter.
 
 ### Computer-Vision-Deep-Learning
-- [Face Recognition model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/Face_Recognition_with_CNN_Transfer_Learning.ipynb) Image CLassification with VGG16 transfer learning from keras on Pinterst celebrities image dataset by kaggle.
-- [Emotion Dection model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/DL_Emotion_Dectection_With_FER_Dataset.ipynb) Emotion Dection With FER 2013 dataset from kaggle.
+- [Face Recognition model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/Face_Recognition_with_CNN_Transfer_Learning.ipynb) Image CLassification with VGG16 transfer learning from keras on Pinterest celebrities image dataset by Kaggle.
+- [Emotion Detection model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/DL_Emotion_Dectection_With_FER_Dataset.ipynb) Emotion Dection With FER 2013 dataset from Kaggle.
 - [Alexnet_Architecture](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/alexnet_architecture_with_intel_image.py) Alexnet architecture with on intel_images from kaggle.
 - [Object Detection model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/DL_Object_Detection_With_YOLO_V6.ipynb) Object detection with YOLO V6 on tortoise and dolphin dataset from kaggle.
 - [Facial Features Detecion model](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/DL_Facial_Features_Detection_Using_Dlib.ipynb) Facial features detecion using dlib with the shape_predictor_68_face_landmarks.dat pre-trained model.
@@ -35,9 +35,10 @@ A compliation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwa
 - [MNIST Digit Classification](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/blob/main/ZA03_MNIST%20Digit%20Classification%20With%20Neural%20Network.ipynb) MNIST Digit Classification With Neural Network.
 
 ### Team-Project
-- [Business Review Sentimental Analyser](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/Business%20Review%20Sentimental%20Analyser%20model%20and%20deployment) Sentimental analysis model and deployment(with fastapi) using an NLP BERT pre-trained model to review customers comments or feedback on the rating of 1 to 5.
-- [Crop Prediction and Crop Recommendation](https://github.com/Zummit-Africa-Inc/Crop-Yield-Prediction/tree/main/results/Crop-Recommendation) Crop recommendation system to help predict type of crop to plant.
-- [Contract Review](https://github.com/OSegun/Contract_Review) artificial intelligence to streamline the contract review process. It identifies key phrases, clauses, rights and obligations of an individual or company signing it and assessing the associated impact helping lawyers spot potential problems and make the review process more efficient.
+- [Business Review Sentimental Analyser](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/Business%20Review%20Sentimental%20Analyser%20model%20and%20deployment) Sentimental analysis model and deployment(with fast API) using an NLP BERT pre-trained model to review customers comments or feedback on the rating of 1 to 5.
+- [Crop Prediction and Crop Recommendation](https://github.com/Zummit-Africa-Inc/Crop-Yield-Prediction/tree/main/results/Crop-Recommendation) Crop recommendation system to help predict the type of crop to plant.
+- [Contract Review](https://github.com/OSegun/Contract_Review) Artificial intelligence to streamline the contract review process. It identifies key phrases, clauses, rights, and obligations of an individual or company signing it and assessing the associated impact helping lawyers spot potential problems and make the review process more efficient.
+- [WazobiaApp With LangChain](https://github.com/Izu-33/Wazobia-The-Nigerian-Translator) Wazobia (The Nigerian Translator) is a chatbot that can translate English to any of the three most popular Nigerian languages (Hausa, Igbo, Yoruba). Wazobia is implemented with Langchain.
 
 
 ### Model-Deployment
