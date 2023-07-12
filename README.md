@@ -38,7 +38,7 @@ A compilation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwa
 - [Business Review Sentimental Analyser](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/Business%20Review%20Sentimental%20Analyser%20model%20and%20deployment) Sentimental analysis model and deployment(with fast API) using an NLP BERT pre-trained model to review customers comments or feedback on the rating of 1 to 5.
 - [Crop Prediction and Crop Recommendation](https://github.com/Zummit-Africa-Inc/Crop-Yield-Prediction/tree/main/results/Crop-Recommendation) Crop recommendation system to help predict the type of crop to plant.
 - [Contract Review](https://github.com/OSegun/Contract_Review) Artificial intelligence to streamline the contract review process. It identifies key phrases, clauses, rights, and obligations of an individual or company signing it and assessing the associated impact helping lawyers spot potential problems and make the review process more efficient.
-- [WazobiaApp With LangChain](https://github.com/Izu-33/Wazobia-The-Nigerian-Translator) Wazobia (The Nigerian Translator) is a chatbot that can translate English to any of the three most popular Nigerian languages (Hausa, Igbo, Yoruba). Wazobia is implemented with Langchain.
+- [WazobiaApp With LangChain & Streamlit](https://github.com/Izu-33/Wazobia-The-Nigerian-Translator) or [WazobiaApp With LangChain & FastApi](https://github.com/OSegun/WazobiaApp) Wazobia (The Nigerian Translator) is a web application that can translate English to any of the three most popular Nigerian languages (Hausa, Igbo, Yoruba). Wazobia is implemented with Langchain and with both Streamlit and Fastapi.
 
 
 ### Model-Deployment
